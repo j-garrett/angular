@@ -1,0 +1,6 @@
+[submodule "angular-phonecat"]
+	path = angular-phonecat
+	url = C:/Users/Jon/AppData/Local/GitHub/PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c/angular-phonecat
+[submodule "tutorial"]
+	path = tutorial
+	url = https://github.com/angular/angular-phonecat.git
